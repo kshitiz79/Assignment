@@ -1,4 +1,4 @@
-// src/components/FilterMenu.js
+
 import React from "react";
 
 const FilterMenu = ({ groupBy, setGroupBy, sortBy, setSortBy }) => {
