@@ -2,7 +2,7 @@
 import React from "react";
 
 const Card = ({ ticket }) => {
-  // Define priority levels for display
+
   const priorityLevels = ["No priority", "Low", "Medium", "High", "Urgent"];
   const priorityColors = ["#ccc", "#4caf50", "#ff9800", "#f44336", "#d32f2f"];
 
